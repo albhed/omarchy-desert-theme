@@ -2,10 +2,14 @@
 
 [Omarchy](https://omarchy.org/) desert inspired theme.
 
+![Desktop with the desert wallpaper](docs/screen2.png)
+
+![Omarchy menu](docs/screen1.png)
+
 ## Install
-
-    omarchy theme install <url>
-
+```bash
+omarchy theme install https://github.com/albhed/omarchy-desert-theme.git
+```
 ## Wallpapers
 
 Add your images in `backgrounds/`. 
