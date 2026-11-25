@@ -15,4 +15,4 @@ omarchy theme install https://github.com/albhed/omarchy-desert-theme.git
 Add your images in `backgrounds/`. 
 
 ## Licence
-MIT
+[MIT](LICENSE)
